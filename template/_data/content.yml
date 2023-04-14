@@ -1,0 +1,267 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Hero [ hero-image ]
+hero:
+  image: "assets/img/profile.png"
+  image_alt: "Matthew Jupp"
+  title: "Matthew <br>Jupp"
+  subtitle: "JUNIOR CONSULTANT"
+  description: "When not building Sandcastles, I specialize in optimization, analysis &amp; solving problems. Let's see what I can do for you."
+  info:
+    - label: "Lives in"
+      value: "Toronto"
+
+    - label: "Experience"
+      value: "5 Years"
+
+    - label: "Age"
+      value: "26"
+
+### About [ about ]
+about:
+  title: "About Me"
+  text: "
+  <p>
+    My name is Matthew Jupp. I have been optimizing businesses with unique and innovative ideas since 2018. It is my goal to help firms build stronger communities, economies and nations. 
+  </p>
+  <p>
+    I am proud of my diverse and complementary set of skills and early career experiences. 
+    Despite my age, I bring a lot to the table. I have a Master's in international relations, and an undergraduate degree in economics.
+    My academic experiences and personal interests have allowed me to develop a nuanced approach to problem solving and analysis. 
+  </p>
+  <p>
+    I am lucky enough to have had a dynamic start to my young career.
+    I have experience working in large firms in financial services, burgeoning startups, and small service-based businesses. 
+    I continue to hunt for new and challenging opportunities where I can offer my talents, effort and ingenuity. 
+  </p>
+  <p> 
+    Contact me today to learn how I can help you on your next project. 
+  </p>
+  "
+  list:
+    - label: "Projects <br>Completed"
+      icon: "far fa-gem"
+      value: "24"
+
+    - label: "Graduate <br>GPA"
+      icon: "far fa-gem"
+      value: "3.7"
+
+    - label: "Awards <br>Won"
+      icon: "far fa-gem"
+      value: "18"
+
+  button:
+    text: "Contact Me"
+    link: "#contact-section"
+
+  signature:
+    image: "assets/img/signature.png"
+    alt: ""
+
+### Resume [ resume ]
+resume:
+  title: "My Resume"
+  text: "
+  <p>
+    Talented consultant with 5 years of experience developing businesses, designing products and strategizing marketing 
+    initiatives. These experiences were centered on creating innovative change that could empower fledgling firms and reinvigorate proven brands. 
+    This approach is supported by both quantatative and qualatative skills that emphasize a balanced approach to data, feedback and analysis.
+    See below for recent project experience, for a more in-depth summary, navigate to the 'Projects' section.
+  </p>
+  "
+
+  skills:
+    title: "Notable Soft Skills"
+    items:
+      - label: "Identifiying Correlations"
+        dots: "9" #0-10 progress in dots
+        value: "90" #0-100 progress in %
+
+      - label: "Long-Term Planning"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+
+      - label: "Process Innovation"
+        dots: "8" #0-10 progress in dots
+        value: "80" #0-100 progress in %
+
+      - label: "Identifying Unseen Risk"
+        dots: "6" #0-10 progress in dots
+        value: "60" #0-100 progress in %
+
+      - label: "Critical Task Prioritization"
+        dots: "7" #0-10 progress in dots
+        value: "70" #0-100 progress in %
+
+  services:
+    title: "Recent Project Experience"
+    items:
+      - icon: "fab fa-chrome"
+        name: "Web-id Development"
+        text: "<p>Designing modern websites with a strong online presence and brand identity.</p>"
+        button: 
+        link: "#contact-section"
+
+      - icon: "fab fa-soundcloud"
+        name: "Firm Strategy"
+        text: "<p>Macro-level analysis on the long-term goals and intermediate steps of a firm.</p>"
+        button: 
+        link: "#contact-section"
+
+      - icon: "fab fa-adversal"
+        name: "Smart Advertising"
+        text: "<p>Designing data-driven ad campaigns for large audiences.</p>"
+        button:
+        link: "#contact-section"
+
+      - icon: "fas fa-gamepad"
+        name: "Database Design"
+        text: "<p>Developing efficient databases to enhance processes and day to day activity.</p>"
+        button:
+        link: "#contact-section"
+
+  history1:
+    - title: "EDUCATION"
+      items:
+        - date: "2021 - 2022"
+          name: "MA Political Studies (IR Theory)"
+          text: "Queen's University"
+
+        - date: "2015 - 2019"
+          name: "BA Economics"
+          text: "Wilfrid Laurier University"
+
+    - title: "AWARDS"
+      items:
+        - date: "2021"
+          name: "Full Scholarship"
+          text: "Awarded in offer to Queen's University Master's Program."
+
+        - date: "2015"
+          name: "Claude Watson Visual Arts Award"
+          text: "Awarded for excellence in visual art."
+
+  history2:
+    - title: "EXPERIENCE"
+      items:
+        - date: "2019 - Present"
+          name: "Center of Hockey Excellence"
+          subname: "Operations Manager"
+          text: "Leading web, database and process design. Provide consulting on brand identity."
+
+        - date: "2018 - 2019"
+          name: "RouteThis"
+          subname: "Marketing and Support Specialist"
+          text: "Designed and published all web marketing. Responsible for support desk maintenance. "
+
+        - date: "2017 - 2018"
+          name: "Gluskin Sheff + Associates"
+          subname: "Junior Project Manager"
+          text: "Worked on key entreprise projects related to databases, data flows and client relations."
+
+  button:
+    text: "Download CV"
+    link: "https://drive.google.com/file/d/1c0ObqcUTrna1QMX1LmVBFIKz0d1qP-LC/view?usp=share_link"
+
+### Pricing [ pricing ]
+pricing:
+  title: "Pricing Plans"
+  text: "<p>Are you interested to work with me ? Here are my price list for design related work. Lets talk about project !</p>"
+  items:
+    - name: "Full Time"
+      subname: "Available for Full Time"
+      price: "$1200"
+      list:
+        - value: "Web Development"
+        - value: "Advertising"
+        - value: "Web Development"
+        - value: "Photography"
+      button: "Hire Me"
+      link: "#contact-section"
+
+    - name: "Project Wise"
+      subname: "Available for Freelancing"
+      price: "$400"
+      list:
+        - value: "Web Development"
+        - value: "Advertising"
+        - value: "Web Development"
+        - value: "Photography"
+      button: "Hire Me"
+      link: "#contact-section"
+
+    - name: "Hourley"
+      subname: "Available for Hourley Basis"
+      price: "$30"
+      list:
+        - value: "Web Development"
+        - value: "Advertising"
+        - value: "Web Development"
+        - value: "Photography"
+      button: "Hire Me"
+      link: "#contact-section"
+
+### Testimonials [ testimonials ]
+testimonials:
+  items:
+    - image: "assets/img/testimonials/team4.png"
+      name: "Jerome Dupont"
+      role: "Founder &amp; President of CHE"
+      text: "<p>Matthew designed and built systems that soon became integral to the day to day operations of CHE. 
+              These projects far exceeded our expectations, both in revenue generated and the thousands of man-hours saved.
+              Matthew can be expected to reliably execute a project plan in a timely manner, while effectively communicating
+              with clients, stakeholders and superiors. He was a pleasure to have on our team.</p>"
+
+### Clients [ clients ]
+clients:
+  title: "My Clients"
+  text: "<p>Big or small, old or new, I have had been lucky to work with a variety of firms. Here are a handful of
+  recent places I've had the opportunity to contribute my skills. I'm always looking for new opporuntites, if you think
+  I could help your firm please fill out the contact form below.</p>"
+  items:
+    - image: "assets/img/brands/brand1.png"
+      title: "bslthemes"
+
+    - image: "assets/img/brands/brand2.png"
+      title: "bslthemes"
+
+    - image: "assets/img/brands/brand3.png"
+      title: "bslthemes"
+
+    - image: "assets/img/brands/brand4.png"
+      title: "bslthemes"
+
+### Contact [ contacts ]
+contacts:
+  title: "Contact Me"
+  list:
+    - label: "Phone"
+      icon: "fas fa-phone"
+      value: "+1 (705)-230-6690"
+
+    - label: "Email"
+      icon: "fas fa-at"
+      value: "matthewjupp.econ
+      @gmail.com"
+
+    - label: "Address"
+      icon: "fas fa-location-arrow"
+      value: "Toronto, Ontario"
+
+### Blog [ blog ]
+#items generates from dir /_posts/*
+blog:
+  title: "My Blog"
+  text: "<p>A collection of personal thoughts and musings.</p>"
+  button: "View Blog"
+  link: "blog/"
+
+### Portfolio [ portfolio ]
+#items generates from dir /_works/*
+portfolio:
+  title: "My Portfolio"
+  text: "<p>This is a collection of professional and academic projects I've worked on throughout my career. Feel free browse these brief summaries. Please reach out for more information.</p>"
