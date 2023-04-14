@@ -33,8 +33,9 @@ title: "Matthew Jupp - CV & Portfolio"
 email: "matthewjupp.econ@gmail.com"
 description: "A collection of past works and experiences"
 author: "Matthew Jupp"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "matthewjupp.com"
+baseurl: "" # the subpath of your site, e.g. /blo
+domain: "matthewjupp.com"
+url: "https://matthewjupp.com"
 date_format: "%d %B %Y"
 
 # paginations & permalinks
