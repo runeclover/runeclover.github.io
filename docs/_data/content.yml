@@ -8,7 +8,7 @@ hero:
   image: "assets/img/profile.png"
   image_alt: "Matthew Jupp"
   title: "Matthew <br>Jupp"
-  subtitle: "JUNIOR CONSULTANT"
+  subtitle: "ANALYST"
   description: "When not building Sandcastles, I specialize in optimization, analysis &amp; solving problems. Let's see what I can do for you."
   info:
     - label: "Lives in"
@@ -44,7 +44,7 @@ about:
   list:
     - label: "Projects <br>Completed"
       icon: "far fa-gem"
-      value: "24"
+      value: "12"
 
     - label: "Graduate <br>GPA"
       icon: "far fa-gem"
@@ -52,7 +52,7 @@ about:
 
     - label: "Awards <br>Won"
       icon: "far fa-gem"
-      value: "18"
+      value: "3"
 
   button:
     text: "Contact Me"
@@ -77,7 +77,7 @@ resume:
   skills:
     title: "Notable Soft Skills"
     items:
-      - label: "Identifiying Correlations"
+      - label: "Critical Analysis"
         dots: "9" #0-10 progress in dots
         value: "90" #0-100 progress in %
 
@@ -89,7 +89,7 @@ resume:
         dots: "8" #0-10 progress in dots
         value: "80" #0-100 progress in %
 
-      - label: "Identifying Unseen Risk"
+      - label: "Identifying Risk"
         dots: "6" #0-10 progress in dots
         value: "60" #0-100 progress in %
 
