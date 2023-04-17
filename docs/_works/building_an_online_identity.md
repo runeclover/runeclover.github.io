@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Building Online Identity
+title: Building An Online Identity
 category: Product Design
 category_slug: product-design
 image: assets/img/blog/brand_splash.png
