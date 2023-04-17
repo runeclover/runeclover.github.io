@@ -91,7 +91,7 @@ resume:
         dots: "8" #0-10 progress in dots
         value: "80" #0-100 progress in %
 
-      - label: "Media & UX Design"
+      - label: "Media &<br>UX Design"
         dots: "6" #0-10 progress in dots
         value: "60" #0-100 progress in %
 
@@ -153,7 +153,7 @@ resume:
         - date: "2019 - Present"
           name: "Center of Hockey Excellence"
           subname: "Operations Manager"
-          text: "Leading web, database and process design. Additonal consulting on brand identity."
+          text: "Leading web, database and process design. Consulting on brand identity development."
 
         - date: "2018 - 2019"
           name: "RouteThis"

@@ -24,9 +24,9 @@ description1:
   </p>"
 
 gallery:
-  - assets/img/blog/che_logo.png
+  - assets/img/blog/CHE_logo.png
   - assets/img/blog/che_banner.png
-  - assets/img/blog/CHE_banner_2.png
+  - assets/img/blog/che_banner_2.png
 
 description2:
   title: Using design to reinforce identity. 
