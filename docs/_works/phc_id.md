@@ -30,7 +30,7 @@ description1:
 
 gallery:
   - assets/img/blog/devices.png
-  - assets/img/blog/analytics.png
+  - assets/img/blog/analytic.png
   - assets/img/blog/2players.png
   - assets/img/blog/linear-timeline.png
   - assets/img/blog/players.png
@@ -38,7 +38,7 @@ gallery:
 description2:
   show: yes
   title: Conceptual Consistency in Design and Application.
-  text: "<p>When it comes to conveying concepts through media, the finer details often communicate the most. The 'feel' is important in this world. The assets these designers create must be fine-tuned to this 'feel', which is in other words, to embody the concepts important to the firm. A good, consistent brand concept is present throughout all media, web design, and advertising. A good example of this kind of consistency can be found in the media produced by Binance or Google. The style, colours and images are so closely related to the brand, the average user could see their media without any title and know the source. Consistency of this magnitude is difficult to execute, but it is the ideal. Brands that achieve this kind of consistency are more likely to invoke the highly advantageous quality of familiarity. 
+  text: "<p>When it comes to conveying concepts through media, the finer details often communicate the most. The 'feel' is important in this world. The assets these designers create must be fine-tuned to this 'feel', which is in other words, to embody the concepts important to the firm. A well crafted brand concept is good because it is consistent, present throughout all media, web design, and advertising. A good example of this kind of consistency can be found in the media produced by Binance or Google. The style, colours and images are so closely related to the brand, the average user could see their media without any title and know the source. Consistency of this magnitude is difficult to execute, but it is the ideal. Brands that achieve this kind of consistency are more likely to invoke the highly advantageous quality of familiarity. 
 
   <p>When it comes to brand consistency, colour becomes a necessary tool that must be used properly to ensure success. The firm leadership had previously chosen the colour red to represent the brand, which was later changed to a darker, online-friendly shade. Gray was chosen as the primary block colour, and secondary colour overall. When we introduced the primary conceptual pillars, these colours needed to fit nicely, or even reinforce what we had in mind. The primary brand colour is a major design decision that is the first step to consistency. We were lucky in this sense. Red fit well with the theme of experts, invoking notions of knowledge, seriousness and intelligence. As for the secondary block colour, gray was already associated with technology, standardization and autonomy. With regard to gray, the brand is walking the line between tailored, personalized services and widespread accessibility. Too much of one takes away from the other, so it is important other media on the website and in advertisements maintains this balance.</p>
 
