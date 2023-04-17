@@ -4,7 +4,7 @@ layout: works-single
 title: How I Think About Brands
 category: Product Design
 category_slug: product-design
-image: assets/img/blog/crystals-cropped.png
+image: assets/img/blog/2.png
 
 # full details
 full_image:
