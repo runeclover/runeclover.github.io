@@ -21,7 +21,7 @@ ui_text:
   email_address:        "Email Address"
   your_email_address:   "example@gmail.com"
   message:              "Message"
-  your_message:         "To Write"
+  your_message:         "Good afternoon..."
   send_message:         "Send Message"
   view_project:         "View Project"
   new:                  "new"

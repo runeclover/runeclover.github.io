@@ -9,7 +9,7 @@ hero:
   image_alt: "Matthew Jupp"
   title: "Matthew <br>Jupp"
   subtitle: "ANALYST"
-  description: "When not building Sandcastles, I specialize in optimization, analysis &amp; solving problems. Let's see what I can do for you."
+  description: "I specialize in analysis, optimization and problem solving. Let me help you with your next strategy."
   info:
     - label: "Lives in"
       value: "Toronto"
@@ -25,20 +25,22 @@ about:
   title: "About Me"
   text: "
   <p>
-    My name is Matthew Jupp. I have been optimizing businesses with unique and innovative ideas since 2018. It is my goal to help firms build stronger communities, economies and nations. 
+    My name is Matthew Jupp. I have been developing unique and innovative projects with firms since 2018. 
+    It is my goal to help businesses build stronger communities, economies and nations. 
   </p>
   <p>
-    I am proud of my diverse and complementary set of skills and early career experiences. 
-    Despite my age, I bring a lot to the table. I have a Master's in international relations, and an undergraduate degree in economics.
-    My academic experiences and personal interests have allowed me to develop a nuanced approach to problem solving and analysis. 
+    My approach to strategy and analysis is uniquely informed by a collage of different experiences both academic and professional.
+    In 2022 I graduatead with a master's in political studies [international relations] from Queen's University. Previously, I earned a bachelors degree in honours economics from Wilfrid Laurier University.
+    Extensive research and discussion in these fields have allowed me to develop an eclectic knowledge base in my professional career.
   </p>
   <p>
-    I am lucky enough to have had a dynamic start to my young career.
-    I have experience working in large firms in financial services, burgeoning startups, and small service-based businesses. 
+    I began working professionally with co-op placements in finacial services. There I learned about project management, business analysis and process design.
+    My direction shifted in 2019 and I found myself working as a marketing and support specialist for a growth-stage tech start-up.  
+    In 2020 I began working for a sports development company, where I became the primary operations manager and designer of most of the firm's databases, websites and marketing campaigns.
     I continue to hunt for new and challenging opportunities where I can offer my talents, effort and ingenuity. 
   </p>
-  <p> 
-    Contact me today to learn how I can help you on your next project. 
+  <p>
+    I am driven by a desire to create, build and innovate. If you are looking for someone who can fill this kind of role, please do not hesistate to contact me.
   </p>
   "
   list:
@@ -50,9 +52,9 @@ about:
       icon: "far fa-gem"
       value: "3.7"
 
-    - label: "Awards <br>Won"
+    - label: "Websites <br>Designed"
       icon: "far fa-gem"
-      value: "3"
+      value: "5"
 
   button:
     text: "Contact Me"
@@ -67,21 +69,21 @@ resume:
   title: "My Resume"
   text: "
   <p>
-    Talented consultant with 5 years of experience developing businesses, designing products and strategizing marketing 
-    initiatives. These experiences were centered on creating innovative change that could empower fledgling firms and reinvigorate proven brands. 
-    This approach is supported by both quantatative and qualatative skills that emphasize a balanced approach to data, feedback and analysis.
-    See below for recent project experience, for a more in-depth summary, navigate to the 'Projects' section.
+    I am an analyst with 5 years of experience developing businesses, designing products and strategizing marketing 
+    initiatives. I have gained valuable skills working in firms large and small.
+    <br>
+    See below for a list of notable skills and recent project experience. For a more in-depth summary of my experience and capability please download my resume or navigate to the 'Projects' section.
   </p>
   "
 
   skills:
     title: "Notable Soft Skills"
     items:
-      - label: "Critical Analysis"
+      - label: "Critical <br> Analysis"
         dots: "9" #0-10 progress in dots
         value: "90" #0-100 progress in %
 
-      - label: "Long-Term Planning"
+      - label: "Pattern Recognition"
         dots: "7" #0-10 progress in dots
         value: "70" #0-100 progress in %
 
@@ -89,11 +91,11 @@ resume:
         dots: "8" #0-10 progress in dots
         value: "80" #0-100 progress in %
 
-      - label: "Identifying Risk"
+      - label: "Media & UX Design"
         dots: "6" #0-10 progress in dots
         value: "60" #0-100 progress in %
 
-      - label: "Critical Task Prioritization"
+      - label: "Organization &<br>Prioritization"
         dots: "7" #0-10 progress in dots
         value: "70" #0-100 progress in %
 
@@ -102,19 +104,19 @@ resume:
     items:
       - icon: "fab fa-chrome"
         name: "Web-id Development"
-        text: "<p>Designing modern websites with a strong online presence and brand identity.</p>"
+        text: "<p>Designing modern websites that not only maintain but promote brand identity.</p>"
         button: 
         link: "#contact-section"
 
       - icon: "fab fa-soundcloud"
         name: "Firm Strategy"
-        text: "<p>Macro-level analysis on the long-term goals and intermediate steps of a firm.</p>"
+        text: "<p>Macro-level analysis on the long-term goals and the intermediate steps of a firm.</p>"
         button: 
         link: "#contact-section"
 
       - icon: "fab fa-adversal"
-        name: "Smart Advertising"
-        text: "<p>Designing data-driven ad campaigns for large audiences.</p>"
+        name: "Smart Campaigns"
+        text: "<p>Designing strategies to increase ad campaign engagement with large audiences.</p>"
         button:
         link: "#contact-section"
 
@@ -138,7 +140,7 @@ resume:
     - title: "AWARDS"
       items:
         - date: "2021"
-          name: "Full Scholarship"
+          name: "Full Entrance Scholarship"
           text: "Awarded in offer to Queen's University Master's Program."
 
         - date: "2015"
@@ -151,12 +153,12 @@ resume:
         - date: "2019 - Present"
           name: "Center of Hockey Excellence"
           subname: "Operations Manager"
-          text: "Leading web, database and process design. Provide consulting on brand identity."
+          text: "Leading web, database and process design. Additonal consulting on brand identity."
 
         - date: "2018 - 2019"
           name: "RouteThis"
           subname: "Marketing and Support Specialist"
-          text: "Designed and published all web marketing. Responsible for support desk maintenance. "
+          text: "Designed and strategized marketing communications. Responsible for support desk maintenance. "
 
         - date: "2017 - 2018"
           name: "Gluskin Sheff + Associates"
@@ -211,10 +213,10 @@ testimonials:
     - image: "assets/img/testimonials/team4.png"
       name: "Jerome Dupont"
       role: "Founder &amp; President of CHE"
-      text: "<p>Matthew designed and built systems that soon became integral to the day to day operations of CHE. 
+      text: "<p>Matthew designed and built systems integral to the day to day operations of CHE. 
               These projects far exceeded our expectations, both in revenue generated and the thousands of man-hours saved.
               Matthew can be expected to reliably execute a project plan in a timely manner, while effectively communicating
-              with clients, stakeholders and superiors. He was a pleasure to have on our team.</p>"
+              with clients, stakeholders and his superiors. He has been a pleasure to have on our team.</p>"
 
 ### Clients [ clients ]
 clients:
@@ -224,16 +226,16 @@ clients:
   I could help your firm please fill out the contact form below.</p>"
   items:
     - image: "assets/img/brands/brand1.png"
-      title: "bslthemes"
+      title: "Center of Hockey Excellence"
 
     - image: "assets/img/brands/brand2.png"
-      title: "bslthemes"
+      title: "Queen's University"
 
     - image: "assets/img/brands/brand3.png"
-      title: "bslthemes"
+      title: "RouteThis"
 
     - image: "assets/img/brands/brand4.png"
-      title: "bslthemes"
+      title: "Gluskin Sheff + Associates"
 
 ### Contact [ contacts ]
 contacts:
@@ -245,10 +247,9 @@ contacts:
 
     - label: "Email"
       icon: "fas fa-at"
-      value: "matthewjupp.econ
-      @gmail.com"
+      value: "matthewjupp.econ<br>@gmail.com"
 
-    - label: "Address"
+    - label: "City"
       icon: "fas fa-location-arrow"
       value: "Toronto, Ontario"
 
