@@ -8,53 +8,55 @@ hero:
   image: "assets/img/profile.png"
   image_alt: "Matthew Jupp"
   title: "Matthew <br>Jupp"
-  subtitle: "ANALYST"
-  description: "I specialize in analysis, optimization and problem solving. Let me help you with your next strategy."
+  subtitle: "SENIOR RESEARCH CONSULTANT"
+  description: "I solve client problems with research, and build the AI workflows that give the team time to solve them better."
   info:
     - label: "Lives in"
       value: "Toronto"
 
-    - label: "Experience"
-      value: "5 Years"
+    - label: "Focus"
+      value: "Research &amp; AI Enablement"
 
-    - label: "Age"
-      value: "26"
+    - label: "Open to"
+      value: "Customer Success / AI roles"
 
 ### About [ about ]
 about:
   title: "About Me"
   text: "
   <p>
-    My name is Matthew Jupp. I have been developing unique and innovative projects with firms since 2018. 
-    It is my goal to help businesses build stronger communities, economies and nations. 
+    I&#39;m a Senior Research Consultant at Innovative Research Group. My core work is research: designing and running programs
+    for enterprise and public-sector clients, and helping their stakeholders interpret and act on what we find.
   </p>
   <p>
-    My approach to strategy and analysis is uniquely informed by a collage of different experiences both academic and professional.
-    In 2022 I graduatead with a master's in political studies [international relations] from Queen's University. Previously, I earned a bachelors degree in honours economics from Wilfrid Laurier University.
-    Extensive research and discussion in these fields have allowed me to develop an eclectic knowledge base in my professional career.
+    What I enjoy most is helping people solve problems. For one utility, I co-designed a customer survey sent to thousands of
+    customers, innovating how investment in the electricity system is visually conveyed. Built iteratively with the client,
+    the program secured 79% public acceptance for a rate increase that became the cornerstone of their five-year plan.
   </p>
   <p>
-    I began working professionally with co-op placements in financial services. There I learned about project management, business analysis and process design.
-    My direction shifted in 2019 and I found myself working as a marketing and support specialist for a growth-stage tech start-up.  
-    In 2020 I began working for a sports development company, where I became the primary operations manager and designer of most of the firm's databases, websites and marketing campaigns.
-    I continue to hunt for new and challenging opportunities where I can offer my talents, effort and ingenuity. 
+    The rest of my time goes to something I care about just as much: using AI to take the busywork out of research so the team
+    can spend its hours on the client, not the mechanics. I&#39;ve designed and built a suite of internal tools on Claude, from a
+    qualitative-synthesis workflow that verifies themes across dozens of interview transcripts, to an RFP system that turns
+    hundred-page tenders into structured proposal checklists. The part I like best is the teaching: showing coworkers how a
+    sharper approach can give them hours back, and getting them genuinely on board.
   </p>
   <p>
-    I am driven by a desire to create, build and innovate. If you are looking for someone who can fill this kind of role, please do not hesistate to contact me.
+    I&#39;m now looking to take this further in a customer success or AI enablement role, where I can keep solving real problems and
+    help people get more out of AI. If that sounds like a fit for your team, please get in touch.
   </p>
   "
   list:
-    - label: "Projects <br>Completed"
+    - label: "Interviews <br>Moderated (1 yr)"
       icon: "far fa-gem"
-      value: "12"
+      value: "50+"
 
-    - label: "Graduate <br>GPA"
+    - label: "AI Tools <br>Built &amp; Adopted"
       icon: "far fa-gem"
-      value: "3.7"
+      value: "6"
 
-    - label: "Websites <br>Designed"
+    - label: "Largest <br>Account"
       icon: "far fa-gem"
-      value: "5"
+      value: "$400K"
 
   button:
     text: "Contact Me"
@@ -69,60 +71,61 @@ resume:
   title: "My Resume"
   text: "
   <p>
-    I am an analyst with 5 years of experience developing businesses, designing products and strategizing marketing 
-    initiatives. I have gained valuable skills working in firms large and small.
+    Senior Research Consultant who pairs enterprise client leadership with hands-on AI building. I lead research programs for
+    regulated utilities, Crown corporations, and government agencies, and design the internal tools that make our delivery faster
+    and sharper.
     <br>
-    See below for a list of notable skills and recent project experience. For a more in-depth summary of my experience and capability please download my resume or navigate to the 'Projects' section.
+    See below for notable skills and the AI tools I&#39;ve built. For the full picture, download my CV.
   </p>
   "
 
   skills:
-    title: "Notable Soft Skills"
+    title: "What I Do"
     items:
-      - label: "Critical <br> Analysis"
+      - label: "Client &amp; Program <br>Leadership"
         dots: "9" #0-10 progress in dots
         value: "90" #0-100 progress in %
 
-      - label: "Pattern Recognition"
-        dots: "7" #0-10 progress in dots
-        value: "70" #0-100 progress in %
+      - label: "AI Workflow <br>Design"
+        dots: "8" #0-10 progress in dots
+        value: "85" #0-100 progress in %
 
-      - label: "Process Innovation"
+      - label: "Enablement &amp; <br>Teaching"
+        dots: "8" #0-10 progress in dots
+        value: "85" #0-100 progress in %
+
+      - label: "Qualitative <br>Research"
         dots: "8" #0-10 progress in dots
         value: "80" #0-100 progress in %
 
-      - label: "Media &<br>UX Design"
-        dots: "6" #0-10 progress in dots
-        value: "60" #0-100 progress in %
-
-      - label: "Organization &<br>Prioritization"
+      - label: "Visual &amp; <br>Data Design"
         dots: "7" #0-10 progress in dots
-        value: "70" #0-100 progress in %
+        value: "75" #0-100 progress in %
 
   services:
-    title: "Recent Project Experience"
+    title: "AI Tools Built &amp; Adopted"
     items:
-      - icon: "fab fa-chrome"
-        name: "Web-id Development"
-        text: "<p>Designing modern websites that not only maintain but promote brand identity.</p>"
-        button: 
-        link: "#contact-section"
-
-      - icon: "fab fa-soundcloud"
-        name: "Firm Strategy"
-        text: "<p>Macro-level analysis on the long-term goals and the intermediate steps of a firm.</p>"
-        button: 
-        link: "#contact-section"
-
-      - icon: "fab fa-adversal"
-        name: "Smart Campaigns"
-        text: "<p>Designing strategies to increase ad campaign engagement with large audiences.</p>"
+      - icon: "fas fa-comments"
+        name: "Qualitative Synthesis"
+        text: "<p>Ingests interview transcripts to verify the themes we form from our own moderation experience and surface supporting verbatims, saving hours of manual review.</p>"
         button:
         link: "#contact-section"
 
-      - icon: "fas fa-gamepad"
-        name: "Database Design"
-        text: "<p>Developing efficient databases to enhance processes and day to day activity.</p>"
+      - icon: "fas fa-tasks"
+        name: "RFP Workflow System"
+        text: "<p>Turns hundred-page tenders into step-by-step proposal checklists and an Excel tracker for junior proposal teams.</p>"
+        button:
+        link: "#contact-section"
+
+      - icon: "fas fa-user-tie"
+        name: "SuperBios"
+        text: "<p>Curates tailored consultant biographies against any RFP requirements, freeing consultants from constant rewrites.</p>"
+        button:
+        link: "#contact-section"
+
+      - icon: "fas fa-file-alt"
+        name: "Case-Study Extractor"
+        text: "<p>Turns final project reports into spec-matched case studies, even for staff who never worked on the project.</p>"
         button:
         link: "#contact-section"
 
@@ -131,39 +134,39 @@ resume:
       items:
         - date: "2021 - 2022"
           name: "MA Political Studies (IR Theory)"
-          text: "Queen's University"
+          text: "Queen's University &middot; A&minus; GPA, Full Scholarship"
 
         - date: "2015 - 2019"
-          name: "BA Economics"
-          text: "Wilfrid Laurier University"
+          name: "BA Honours Economics"
+          text: "Wilfrid Laurier University &middot; A&minus; GPA"
 
-    - title: "AWARDS"
+    - title: "RECOGNITION"
       items:
         - date: "2021"
-          name: "Full Entrance Scholarship"
-          text: "Awarded in offer to Queen's University Master's Program."
+          name: "Full Graduate Scholarship"
+          text: "Awarded on admission to Queen's University."
 
-        - date: "2015"
-          name: "Claude Watson Visual Arts Award"
-          text: "Awarded for excellence in visual art."
+        - date: "Training"
+          name: "Qualitative Moderation"
+          text: "Formally trained in focus groups and in-depth interviews."
 
   history2:
     - title: "EXPERIENCE"
       items:
-        - date: "2019 - Present"
-          name: "Center of Hockey Excellence"
-          subname: "Operations Manager"
-          text: "Leading web, database and process design. Consulting on brand identity development."
+        - date: "2025 - Present"
+          name: "Innovative Research Group"
+          subname: "Senior Research Consultant"
+          text: "Lead research programs end to end for enterprise and public-sector clients. Mentor juniors and lead internal AI implementation."
 
-        - date: "2018 - 2019"
-          name: "RouteThis"
-          subname: "Marketing and Support Specialist"
-          text: "Designed and strategized marketing communications. Responsible for support desk maintenance. "
+        - date: "2024 - 2025"
+          name: "Innovative Research Group"
+          subname: "Research Consultant"
+          text: "Managed $40K-$400K accounts across sentiment, social-licence, brand and regulatory research."
 
-        - date: "2017 - 2018"
-          name: "Gluskin Sheff + Associates"
-          subname: "Junior Project Manager"
-          text: "Worked on key entreprise projects related to databases, data flows and client relations."
+        - date: "2023 - 2024"
+          name: "Innovative Research Group"
+          subname: "Research Analyst"
+          text: "Enabled surveys, built client reports, and began contributing to research design and client relationships."
 
   button:
     text: "Download CV"
@@ -212,42 +215,45 @@ testimonials:
   items:
     - image: "assets/img/testimonials/team4.png"
       name: "Jerome Dupont"
-      role: "Founder &amp; President of CHE"
-      text: "<p>Matthew designed and built systems integral to the day to day operations of CHE. 
+      role: "Founder &amp; President, Center of Hockey Excellence"
+      text: "<p>Matthew designed and built systems integral to the day to day operations of CHE.
               These projects far exceeded our expectations, both in revenue generated and the thousands of man-hours saved.
               Matthew can be expected to reliably execute a project plan in a timely manner, while effectively communicating
               with clients, stakeholders and his superiors. He has been a pleasure to have on our team.</p>"
 
+    - image: "assets/img/testimonials/team4.png"
+      name: "Utility Customer Program"
+      role: "Impact Highlight"
+      text: "<p>Co-designed a customer survey sent to thousands of utility customers that secured 79% public acceptance
+              for a rate increase, becoming the cornerstone of the utility&#39;s five-year investment plan.</p>"
+
+    - image: "assets/img/testimonials/team4.png"
+      name: "Infrastructure Ontario"
+      role: "Impact Highlight"
+      text: "<p>Delivered a nuanced read of the organization&#39;s client relationships and presented findings directly to the CEO.
+              The engagement was re-won for 2026.</p>"
+
 ### Clients [ clients ]
 clients:
-  title: "My Clients"
-  text: "<p>Big or small, old or new, I have had been lucky to work with a variety of firms. Here are a handful of
-  recent places I've had the opportunity to contribute my skills. I'm always looking for new opporuntites, if you think
-  I could help your firm please fill out the contact form below.</p>"
-  items:
-    - image: "assets/img/brands/brand1.png"
-      title: "Center of Hockey Excellence"
-
-    - image: "assets/img/brands/brand2.png"
-      title: "Queen's University"
-
-    - image: "assets/img/brands/brand3.png"
-      title: "RouteThis"
-
-    - image: "assets/img/brands/brand4.png"
-      title: "Gluskin Sheff + Associates"
+  title: "Selected Clients"
+  text: "<p>I&#39;ve led or supported research programs for enterprise and public-sector clients including
+  <strong>Infrastructure Ontario</strong>, <strong>Elexicon Energy</strong>, <strong>Alectra Utilities</strong>,
+  <strong>407 ETR</strong>, <strong>CPP Investments</strong>, <strong>FP Canada</strong>, the
+  <strong>Greenbelt Foundation</strong>, and <strong>Queen&#39;s University</strong> &mdash; spanning regulated utilities,
+  Crown corporations, and government agencies.</p>"
+  items: []
 
 ### Contact [ contacts ]
 contacts:
   title: "Contact Me"
   list:
-    - label: "Phone"
-      icon: "fas fa-phone"
-      value: "+1 (705)-230-6690"
-
     - label: "Email"
       icon: "fas fa-at"
-      value: "matthewjupp.econ<br>@gmail.com"
+      value: "matthewcjupp<br>@gmail.com"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      value: "linkedin.com/in/mjupp"
 
     - label: "City"
       icon: "fas fa-location-arrow"
