@@ -11,7 +11,7 @@ hero:
   subtitle: "SENIOR RESEARCH CONSULTANT"
   description: "I solve client problems with research, and build the AI workflows that give the team time to solve them better."
   info:
-    - label: "Lives in"
+    - label: "Based in"
       value: "Toronto"
 
     - label: "Focus"
@@ -25,20 +25,20 @@ about:
   title: "About Me"
   text: "
   <p>
-    I&#39;m a Senior Research Consultant at Innovative Research Group. My core work is research: designing and running programs
-    for enterprise and public-sector clients, and helping their stakeholders interpret and act on what we find.
+    I&#39;m a Senior Research Consultant at Innovative Research Group. My core work is research: designing and running research programs
+    for enterprise and public-sector clients, helping my clients understand and act on insights.
   </p>
   <p>
-    What I enjoy most is helping people solve problems. For one utility, I co-designed a customer survey sent to thousands of
-    customers, innovating how investment in the electricity system is visually conveyed. Built iteratively with the client,
-    the program secured 79% public acceptance for a rate increase that became the cornerstone of their five-year plan.
+    What I enjoy most is helping people solve problems. My career highlight has been co-designing an interactive survey sent to thousands of
+    electricity customers, innovating how investment trade-offs in the electricity system are conveyed. Built alongside our client,
+    the research program secured 79% public acceptance for a rate increase, a figure that has since became the cornerstone of their five-year plan.
   </p>
   <p>
     The rest of my time goes to something I care about just as much: using AI to take the busywork out of research so the team
-    can spend its hours on the client, not the mechanics. I&#39;ve designed and built a suite of internal tools on Claude, from a
-    qualitative-synthesis workflow that verifies themes across dozens of interview transcripts, to an RFP system that turns
-    hundred-page tenders into structured proposal checklists. The part I like best is the teaching: showing coworkers how a
-    sharper approach can give them hours back, and getting them genuinely on board.
+    can spend more time providing findings to our clients. I&#39;ve designed and built a suite of internal tools on Claude, from a 
+    workflow that synthesizes and verifies qualitative themes across dozens of interview transcripts, to an RFP system that turns
+    hundred-page tenders into a structured proposal tracker. The part I like best is the teaching: showing coworkers how a
+    sharper, AI leveraged approach to our daily processes can give them hours of time back.
   </p>
   <p>
     I&#39;m now looking to take this further in a customer success or AI enablement role, where I can keep solving real problems and
@@ -46,15 +46,15 @@ about:
   </p>
   "
   list:
-    - label: "Interviews <br>Moderated (1 yr)"
-      icon: "far fa-gem"
-      value: "50+"
-
-    - label: "AI Tools <br>Built &amp; Adopted"
+    - label: "Years of <br>Client Facing Experience"
       icon: "far fa-gem"
       value: "6"
 
-    - label: "Largest <br>Account"
+    - label: "AI Tools <br>Built &amp; Adopted"
+      icon: "far fa-gem"
+      value: "10+"
+
+    - label: "Largest <br>Client Account"
       icon: "far fa-gem"
       value: "$400K"
 
@@ -71,16 +71,15 @@ resume:
   title: "My Resume"
   text: "
   <p>
-    Senior Research Consultant who pairs enterprise client leadership with hands-on AI building. I lead research programs for
-    regulated utilities, Crown corporations, and government agencies, and design the internal tools that make our delivery faster
-    and sharper.
+    Since becoming a Senior Consultant, I have championed AI adoption initatives within my firm to stay competitive and remain on the cusp of industry trends.
+    When I am not designing research programs for regulated utilities, Crown corporations, and large organizations, I spend my time designing the internal tools that make our delivery faster and sharper.
     <br>
     See below for notable skills and the AI tools I&#39;ve built. For the full picture, download my CV.
   </p>
   "
 
   skills:
-    title: "What I Do"
+    title: "Skills I am Developing Today"
     items:
       - label: "Client &amp; Program <br>Leadership"
         dots: "9" #0-10 progress in dots
@@ -103,17 +102,17 @@ resume:
         value: "75" #0-100 progress in %
 
   services:
-    title: "AI Tools Built &amp; Adopted"
+    title: "AI Tools I&#39;ve Designed"
     items:
       - icon: "fas fa-comments"
-        name: "Qualitative Synthesis"
-        text: "<p>Ingests interview transcripts to verify the themes we form from our own moderation experience and surface supporting verbatims, saving hours of manual review.</p>"
+        name: "Transcript Synthesis"
+        text: "<p>Ingests interview transcripts to explore and verify the themes we form from our own moderation experience and surface supporting verbatims, saving hours of manual review.</p>"
         button:
         link: "#contact-section"
 
       - icon: "fas fa-tasks"
         name: "RFP Workflow System"
-        text: "<p>Turns hundred-page tenders into step-by-step proposal checklists and an Excel tracker for junior proposal teams.</p>"
+        text: "<p>Turns hundred-page tenders into step-by-step proposal checklists and an Excel tracker for proposal teams to execute.</p>"
         button:
         link: "#contact-section"
 
@@ -134,43 +133,43 @@ resume:
       items:
         - date: "2021 - 2022"
           name: "MA Political Studies (IR Theory)"
-          text: "Queen's University &middot; A&minus; GPA, Full Scholarship"
+          text: "Queen's University &middot; A&minus; GPA, Entrance Scholarship"
 
         - date: "2015 - 2019"
           name: "BA Honours Economics"
-          text: "Wilfrid Laurier University &middot; A&minus; GPA"
+          text: "Wilfrid Laurier University &middot; A&minus; GPA, Entrance Scholarship"
 
     - title: "RECOGNITION"
       items:
         - date: "2021"
-          name: "Full Graduate Scholarship"
+          name: "Master of Arts Entrance Scholarship"
           text: "Awarded on admission to Queen's University."
 
         - date: "Training"
-          name: "Qualitative Moderation"
-          text: "Formally trained in focus groups and in-depth interviews."
+          name: "Focus Group Moderation"
+          text: "Formally trained to moderate focus groups and in-depth interviews."
 
   history2:
     - title: "EXPERIENCE"
       items:
         - date: "2025 - Present"
-          name: "Innovative Research Group"
-          subname: "Senior Research Consultant"
-          text: "Lead research programs end to end for enterprise and public-sector clients. Mentor juniors and lead internal AI implementation."
+          name: "Senior Research Consultant"
+          subname: "Innovative Research Group"
+          text: "Managed research programs end to end for enterprise and public-sector clients. Mentor juniors while leading internal AI implementation."
 
         - date: "2024 - 2025"
-          name: "Innovative Research Group"
-          subname: "Research Consultant"
-          text: "Managed $40K-$400K accounts across sentiment, social-licence, brand and regulatory research."
+          name: "Research Consultant"
+          subname: "Innovative Research Group"
+          text: "Conducted research on social-licence, brand health and public affairs research."
 
         - date: "2023 - 2024"
-          name: "Innovative Research Group"
-          subname: "Research Analyst"
-          text: "Enabled surveys, built client reports, and began contributing to research design and client relationships."
+          name: "Research Analyst"
+          subname: "Innovative Research Group"
+          text: "Supported surveys, built client reports, and began contributing to research design and client relationships."
 
   button:
     text: "Download CV"
-    link: "https://drive.google.com/file/d/1c0ObqcUTrna1QMX1LmVBFIKz0d1qP-LC/view?usp=share_link"
+    link: "https://drive.google.com/file/d/1XPP_DP9826rB7AjOhZeAPB-tjFdwDlmL/view?usp=sharing"
 
 ### Pricing [ pricing ]
 pricing:
@@ -221,13 +220,13 @@ testimonials:
               Matthew can be expected to reliably execute a project plan in a timely manner, while effectively communicating
               with clients, stakeholders and his superiors. He has been a pleasure to have on our team.</p>"
 
-    - image: "assets/img/testimonials/team4.png"
+    - image: "assets/img/testimonials/team5.png"
       name: "Utility Customer Program"
       role: "Impact Highlight"
-      text: "<p>Co-designed a customer survey sent to thousands of utility customers that secured 79% public acceptance
+      text: "<p>Co-designed a customer engagement sent to thousands of utility customers, securing 79% public acceptance
               for a rate increase, becoming the cornerstone of the utility&#39;s five-year investment plan.</p>"
 
-    - image: "assets/img/testimonials/team4.png"
+    - image: "assets/img/testimonials/team6.png"
       name: "Infrastructure Ontario"
       role: "Impact Highlight"
       text: "<p>Delivered a nuanced read of the organization&#39;s client relationships and presented findings directly to the CEO.
